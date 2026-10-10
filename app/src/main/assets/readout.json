@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "IsEnable": true,
+    "IsChecked": false,
+    "Scaler": "1.0.94.91.6.255",
+    "Profile": "1.0.98.1.0.255",
+    "ObjectName": "Billing Profile Data",
+    "ShortName": "BP"
+  },
+  {
+    "Id": "2",
+    "IsEnable": true,
+    "IsChecked": false,
+    "Scaler": "1.0.94.91.5.255",
+    "Profile": "1.0.99.2.0.255",
+    "ObjectName": "Daily Load Profile",
+    "ShortName": "DP"
+  },
+  {
+    "Id": "3",
+    "IsEnable": true,
+    "IsChecked": false,
+    "Scaler": "1.0.94.91.3.255",
+    "Profile": "1.0.94.91.0.255",
+    "ObjectName": "Instantaneous Profile",
+    "ShortName": "IP"
+  },
+  {
+    "Id": "4",
+    "IsEnable": true,
+    "IsChecked": false,
+    "Scaler": "1.0.94.91.4.255",
+    "Profile": "1.0.99.1.0.255",
+    "ObjectName": "Block Load Profile",
+    "ShortName": "LP"
+  },
+  {
+    "Id": "6",
+    "IsEnable": true,
+    "IsChecked": false,
+    "Scaler": "",
+    "Profile": "0.0.94.91.10.255",
+    "ObjectName": "Name Plate Profile",
+    "ShortName": "NP"
+  }
+]

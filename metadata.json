@@ -1,0 +1,7 @@
+{
+  "name": "i-DATUM",
+  "description": "Smart Meter HHU field utility for DLMS readout, relay re-connection, MD reset, TOU programming, CT commissioning, and ticket synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

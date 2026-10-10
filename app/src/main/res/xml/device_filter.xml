@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB Optical Probes for DLMS/COSEM Smart Meter Readout -->
+    <usb-device vendor-id="6056" product-id="1" />
+    <usb-device vendor-id="1367" product-id="8200" />
+    <usb-device vendor-id="6790" product-id="29987" />
+    <usb-device vendor-id="1659" product-id="8963" />
+    <usb-device vendor-id="1659" product-id="9123" />
+    <usb-device vendor-id="1659" product-id="9139" />
+    <usb-device vendor-id="1659" product-id="9155" />
+    <usb-device vendor-id="1027" product-id="24577" />
+</resources>
